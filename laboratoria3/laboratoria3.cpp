@@ -37,7 +37,7 @@ int main() {
     else
         cout << "Poza skala";*/
 
-    float a, b;
+    /*float a, b;
     int wybor;
 	cout << "Podaj dwie liczby : ";          //zad 4.
 	cin >> a >> b;
@@ -57,7 +57,7 @@ int main() {
     case 4:
         cout << "wynik dzielenia to : " << a / b << endl;
         break;
-    }
+    }*/
 
    
 

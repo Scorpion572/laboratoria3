@@ -85,7 +85,7 @@ int main() {
                        break;
                    }
                }*/
- /*   float a, b;                                                 //zad 6.
+   /*float a, b;                                                 //zad 6.
     int wybor;
     while (1) {
     cout << "Podaj dwie liczby : ";
@@ -104,12 +104,19 @@ int main() {
         cout << "wynik mnozenia to : " << a * b << endl;
         break;
     case 4:
+    if (b==0) {
+	cout << "Nie dzielimy przez zero! \n";
+    break;
+    }
+    else {
         cout << "wynik dzielenia to : " << a / b << endl;
         break;
+    }
     case 5:
         return 0;
-    }
-*/
+	}
+	}*/ 
+
  /*  int n;
 	cout << "Podaj liczbe naturalna dodatnia : ";               //zad 8.
 	cin >> n;   
